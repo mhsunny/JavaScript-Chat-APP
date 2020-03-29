@@ -3,7 +3,7 @@
 This is sample mordern JavaScript chat application using ES6, more than two users can join to the chatroom.
 Authentication not added as people dont like to login for chat.
 
-<p>Created by <a href="https://www.mmhsunny.com/">MH Sunny, https://www.mmhsunny.com/</a> Hire me: Contact through my website. Source code: https://github.com/mhsunny/JavaScript-Chat-APP</p>
+<p>Created by <a href="https://www.mmhsunny.com/">MH Sunny </a> Hire me: Contact https://www.mmhsunny.com/.</p>
 
 #Project Demo : 
 https://nosqltutorial-4e9ee.firebaseapp.com/
